@@ -8,7 +8,8 @@
     "overrideReferences": true,
     "precompiledReferences": [
         "LiteNetLib.dll",
-        "K4os.Compression.LZ4.dll"
+        "K4os.Compression.LZ4.dll",
+        "RefMagic.dll"
     ],
     "autoReferenced": true,
     "defineConstraints": [],
