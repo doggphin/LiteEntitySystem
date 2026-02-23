@@ -35,7 +35,7 @@ namespace LiteEntitySystem
         internal ushort LastProcessedTick;
         internal ushort LastReceivedTick;
         internal ushort CurrentServerTick;
-        internal ushort StateATick;
+        public ushort StateATick;
         internal ushort StateBTick;
         internal float LerpTime;
         
