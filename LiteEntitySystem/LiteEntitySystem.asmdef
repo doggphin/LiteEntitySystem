@@ -1,14 +1,14 @@
 {
     "name": "LiteEntitySystem",
     "rootNamespace": "",
-    "references": [
-        "LiteNetLib"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": true,
-    "overrideReferences": false,
-    "precompiledReferences": [],
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "LiteNetLib.dll"
+    ],
     "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [],
